@@ -40,7 +40,9 @@ python eval_code.py \
 ## Training with verl
 
 First install verl from `https://github.com/volcengine/verl.git`.
+
 Download aggregation dataset used in our paper (mixture of DeepScaleR + Reasoning Gym tasks with candidates from Qwen3-4B-Instruct-2507) `https://huggingface.co/datasets/RSA-RL/DeepScaleR-RG-Aggregator-RL`
+
 You can also find our finetuned checkpoints, used for the evals in the paper in the same repository.
 
 Launch verl RLOO trainer:
