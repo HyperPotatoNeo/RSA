@@ -37,7 +37,7 @@ python eval_code.py \
   --population 16
 ```
 
-## Training with verl
+## Aggregation-aware RL training with verl
 
 First install verl from `https://github.com/volcengine/verl.git`.
 
